@@ -74,6 +74,8 @@ export default function Authantication() {
             <Button onClick={logOut} style={{ marginLeft: 5, height: 39 }} color="error" variant='contained' >sign Out</Button>
             <Button onClick={user} style={{ marginLeft: 5, height: 39 }} color="secondary" variant='contained' >user info</Button>
             <div style={{width:200,height:200,border :"1px solid black"}}> nav bar </div>
+            
+            <div>fotter</div>
         </div>
     </div>
     
